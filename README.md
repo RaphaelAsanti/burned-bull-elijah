@@ -1,2 +1,8 @@
-# burned-bull-elijah
-A structural overview of the burned bull event in the Elijah narrative. Documents the sequence, physical elements, and the pattern of contrast and verification created by the act. Focuses on the event as a clarity mechanism within observable structure.
+# Burned Bull — Elijah
+
+A concise overview of the burned bull event in the Elijah narrative, focusing on its structural role as a physical demonstration and verification act. This repository documents the sequence, the physical elements involved, and the pattern of contrast and confirmation present in the event.
+
+## Files
+
+- [Ebook Excerpt (PDF)](burned-bull-elijah.pdf)
+- [License](LICENSE)

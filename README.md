@@ -4,6 +4,7 @@ A concise overview of the burned bull event in the Elijah narrative, focusing on
 
 ## Files
 
+- [index.html](https://raphaelasanti.github.io/burned-bull-elijahe/)
 - [Ebook Excerpt (PDF)](burned-bull-elijah.pdf)
 - [License](LICENSE)
 

@@ -6,3 +6,10 @@ A concise overview of the burned bull event in the Elijah narrative, focusing on
 
 - [Ebook Excerpt (PDF)](burned-bull-elijah.pdf)
 - [License](LICENSE)
+
+- **Full Ebook — The End of Time**  
+  [Read the complete book (HTML)](https://raphaelasanti.github.io/the-end-of-time/)
+
+---
+
+Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).

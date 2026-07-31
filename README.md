@@ -13,4 +13,9 @@ A concise overview of the burned bull event in the Elijah narrative, focusing on
 
 ---
 
-Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/

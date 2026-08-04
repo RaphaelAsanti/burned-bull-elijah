@@ -1,21 +1,25 @@
 # Burned Bull — Elijah
 
-A concise overview of the burned bull event in the Elijah narrative, focusing on its structural role as a physical demonstration and verification act. This repository documents the sequence, the physical elements involved, and the pattern of contrast and confirmation present in the event.
+A concise structural overview of the burned bull event in the Elijah narrative.  
+This page documents the sequence, physical elements, and the pattern of contrast and verification created by the act.
 
 ## Files
+- **index.html** — Primary page (HTML)  
+  https://raphaelasanti.github.io/burned-bull-elijah/
 
-- [index.html](https://raphaelasanti.github.io/burned-bull-elijah/)
-- [Ebook Excerpt (PDF)](burned-bull-elijah.pdf)
-- [License](LICENSE)
+- **Ebook Excerpt (PDF)**  
+  https://raphaelasanti.github.io/burned-bull-elijah/burned-bull-elijah.pdf
 
-- **Full Ebook — The End of Time**  
-  [Read the complete book (HTML)](https://raphaelasanti.github.io/the-end-of-time/)
+- **Full Ebook — The End of Time** (HTML)  
+  https://raphaelasanti.github.io/the-end-of-time/
 
----
+- **License**  
+  https://raphaelasanti.github.io/burned-bull-elijah/LICENSE.txt
 
 ## Author
-
 Raphael E. Asanti  
 July 2026
 
-Main index: https://raphaelasanti.github.io/
+## Related Pages
+- **Main Index**  
+  https://raphaelasanti.github.io/

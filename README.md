@@ -13,8 +13,8 @@ This page documents the sequence, physical elements, and the pattern of contrast
 - **Full Ebook — The End of Time** (HTML)  
   https://raphaelasanti.github.io/the-end-of-time/
 
-- **License**  
-  https://raphaelasanti.github.io/burned-bull-elijah/LICENSE.txt
+- **License**
+  https://github.com/raphaelasanti/burned-bull-elijah/blob/main/LICENSE
 
 ## Author
 Raphael E. Asanti  

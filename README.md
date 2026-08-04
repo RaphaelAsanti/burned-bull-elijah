@@ -1,4 +1,4 @@
-# Burned Bull — Elijah
+# Elijah’s Burned Bull: The Meaning Everyone Misses
 
 A concise structural overview of the burned bull event in the Elijah narrative.  
 This page documents the sequence, physical elements, and the pattern of contrast and verification created by the act.

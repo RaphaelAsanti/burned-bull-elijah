@@ -21,8 +21,12 @@ Raphael E. Asanti
 July 2026
 
 ## Related Pages
-- **Main Index**  
-  https://raphaelasanti.github.io/
+- **The Real Reason the Earth's Axis Tilts**  
+  https://raphaelasanti.github.io/tilt-of-the-earth/
+  - **Revelations Woman in the Wilderness**  
+  https://raphaelasanti.github.io/woman-in-the-wilderness/
+- **The Eye of the Needle**  
+  https://raphaelasanti.github.io/the-eye-of-the-needle/
 
 ---
 
